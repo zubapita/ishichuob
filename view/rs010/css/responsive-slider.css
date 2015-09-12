@@ -29,6 +29,12 @@
 .responsive-slider .slides ul li .slide-body img {
   max-width: 100%;
 }
+.responsive-slider .slides ul li .slide-body img.big-screen {
+  display: inline;
+}
+.responsive-slider .slides ul li .slide-body img.small-screen {
+  display: none;
+}
 .responsive-slider .slides ul li .slide-body .caption {
   position: absolute;
   color: #fff;
@@ -39,52 +45,94 @@
   left: 38%;
 }
 .responsive-slider .slides ul li .slide-body .caption.header h2 {
-  font-size: 25px;
-}
-.responsive-slider .slides ul li .slide-body .caption.header h2 i {
-  font-size: 20px;
+  font-size: 30px;
 }
 .responsive-slider .slides ul li .slide-body .caption.header h3 {
-  font-size: 40px;
+  font-size: 45px;
+  line-height: 80px;
 }
-.responsive-slider .slides ul li .slide-body .caption.header h3 i {
-  font-size: 35px;
+.responsive-slider .slides ul li .slide-body .caption.header p {
+  font-size: 20px;
 }
+/*********************************************/
+/*
+  width:481px - 767px
+*/
+/*********************************************/
 @media (min-width: 481px) and (max-width: 767px) {
-  .responsive-slider .slides ul li .slide-body .caption.header h2 {
-    font-size: 25px;
+  .responsive-slider .slides ul li .slide-body img {
+    width:100%
+    height:auto;
   }
-  .responsive-slider .slides ul li .slide-body .caption.header h2 i {
+  .responsive-slider .slides ul li .slide-body img.big-screen {
+    display: none;
+  }
+  .responsive-slider .slides ul li .slide-body img.small-screen {
+    display: inline;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.sub {
+    font-size: 11px;
+    bottom: 0px;
+    right: -10px;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header h2 {
     font-size: 20px;
   }
-}
-@media (max-width: 480px) {
-  .responsive-slider .slides ul li .slide-body .caption.header h2 {
-    font-size: 16px;
+  .responsive-slider .slides ul li .slide-body .caption.header h3 {
+    font-size: 28px;
+    line-height: 35px;
   }
-  .responsive-slider .slides ul li .slide-body .caption.header h2 i {
+  .responsive-slider .slides ul li .slide-body .caption.header p {
     font-size: 14px;
   }
 }
+/*********************************************/
+/*
+  width:0px - 480px
+*/
+/*********************************************/
+@media (max-width: 480px) {
+  .responsive-slider .slides ul li .slide-body img {
+    width:100%
+    height:auto;
+  }
+  .responsive-slider .slides ul li .slide-body img.big-screen {
+    display: none;
+  }
+  .responsive-slider .slides ul li .slide-body img.small-screen {
+    display: inline;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header {
+    top: 22%;
+    left:10px;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.sub {
+    font-size: 10px;
+    bottom: 5px;
+    right: 0;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header h2 {
+    font-size: 20px;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .responsive-slider .slides ul li .slide-body .caption.header p {
+    font-size: 14px;
+  }
+}
+
+
 .responsive-slider .slides ul li .slide-body .caption.sub {
   bottom: -8px;
   right: -20px;
   font-weight: bold;
 }
 @media (min-width: 481px) and (max-width: 767px) {
-  .responsive-slider .slides ul li .slide-body .caption.sub {
-    font-size: 11px;
-    bottom: 0px;
-    right: -10px;
-  }
 }
-@media (max-width: 480px) {
-  .responsive-slider .slides ul li .slide-body .caption.sub {
-    font-size: 10px;
-    bottom: 5px;
-    right: 0;
-  }
-}
+
+
 .responsive-slider .slides ul li .slide-body .caption.img-html5 {
   top: 13%;
   right: 8%;
