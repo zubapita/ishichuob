@@ -32,11 +32,9 @@
     </head>
 
 <body>
-<div id="wrapper" class="container">
 {include file='cmn/includes/header.inc'}
 
 {block name="body"}{/block}
-</div><!-- /#wrapper -->
 
 {include file='cmn/includes/footer.inc'}
 	<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>
