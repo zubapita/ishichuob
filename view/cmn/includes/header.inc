@@ -1,40 +1,28 @@
-
 <header>
-<div class="navbar navbar-default navbar-fixed-top">
-	<div class="container">
-		<div class="navbar-header">
-			<a href="/" class="navbar-brand">そうだ 石中に行こう！</a>
-		</div><!-- /navbar-header -->
-		<div class="navbar-collapse collapse" id="navbar-main">
-			<ul class="nav navbar-nav">
-				<li{if $dispatch_path=='{$lang}/'} class="active"{/if}><a href="{$lang}/">Home</a></li>
-				{*<li{if $dispatch_path=='{$lang}/spot/'} class="active"{/if}><a href="{$lang}/spot/">Spot</a></li>*}
-				<li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Spot <span class="caret"></span></a>
-					<ul class="dropdown-menu" aria-labelledby="themes">
-						<li><a href="{$lang}/spot/">List</a></li>
-						<li class="divider"></li>
-						<li><a href="{$lang}/spot/record/add">Add</a></li>
-					</ul><!-- /dropdown-menu -->
-				</li><!-- /dropdown -->
-				<li><a href="/mimage/">Mimage</a></li>
-				<li><a href="/oauth/twitter">Twitter</a></li>
-				{if $dispatch_path=='/func1/detail/'}<li class="active">func1 detail</li>{/if}
-				{if $dispatch_path=='/func2/detail/'}<li class="active">func2 detail</li>{/if}
-			</ul><!-- /nav navbar-nav -->
+	<div class="header">
+	<section id="header" class="appear">
+		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(0,0,0,1);">
 
-			<ul class="nav navbar-nav navbar-right">
-				{if isset($username)}
-				<li><a href="#">{$l['welcome']}{$username}さん</a></li>
-				<li><a href="{$lang}/userauth/logout">ログアウト</a></li>
-				{else}
-				<li><a href="#">{$l['welcome']}ゲストさん</a></li>
-				<li><a href="{$lang}/userauth/login">ログイン</a></li>
-				<li><a href="{$lang}/userauth/add">新規登録</a></li>
-				{/if}
-			</ul><!-- /nav navbar-nav navbar-right -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="fa fa-bars color-white"></span>
+					</button>
+					<h1><a class="navbar-brand" href="/" data-0="line-height:90px;" data-300="line-height:50px;">大田区立石川台中学校同窓会</a></h1>
+				</div>
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
+						<li class="active"><a href="#index">Home</a></li>
+						<li><a href="#about-event">イベント概要</a></li>
+						<li><a href="#frema">フリマ参加</a></li>
+						{*<li><a href="#team">Team</a></li>
+						<li><a href="#line-pricing">Pricing</a></li>
+						<li><a href="#section-works">Portfolio</a></li>
+						<li><a href="#section-contact">Contact</a></li>*}
+					</ul>
+				</div><!--/.navbar-collapse -->
+			</div>
 
-		</div><!-- /id="navbar-main" -->
-	</div><!-- /container -->
-</div><!-- /navbar navbar-default navbar-fixed-top -->
+
+	</section>
+	</div>
 </header>
