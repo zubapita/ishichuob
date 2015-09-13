@@ -700,6 +700,7 @@ button[type="submit"].light:hover {
 /*--Responsive--*/
 
 @media (max-width: 1199px){
+	/*
 .navbar .navbar-collapse {
 	margin-bottom: 0;
 	padding-bottom:0;
@@ -707,12 +708,20 @@ button[type="submit"].light:hover {
 	margin-top: -20px;
 	width:160px;
 }
+	*/
+
+
+
+	
 .navbar .navbar-nav > .active > a {
 	padding-bottom: 0px;
 }
 .row-slider{
 height: auto;
 }
+
+
+
 }
 
 .nav li {
@@ -1750,8 +1759,6 @@ Media queries
 		border-bottom: 1px solid #666;
 	}
 
-
-
 	.team-member,.col-lg-4 {
 		margin-bottom: 30px;
 	}
@@ -1779,6 +1786,7 @@ Media queries
 		font-weight: 300;
 		text-shadow: none;
 		margin-left: 10px;
+		line-height: 30px;
 	}
 
 	.navbar-brand {

@@ -108,7 +108,7 @@
         }
 
         
-        if (isMobile == false && ($('#parallax1').length  ||isMobile == false &&  $('#parallax2').length ||isMobile == false &&  $('#testimonials').length))
+        if (isMobile == false && ($('#testimonials-3').length  ||isMobile == false &&  $('#parallax2').length ||isMobile == false &&  $('#testimonials').length))
         {
 
 
