@@ -1762,6 +1762,12 @@ Media queries
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
+	h1 { font-size: 24px; line-height: 1.6em; }
+	h2 { font-size: 20px; line-height: 1.6em; }
+	h3 { font-size: 18px; }
+	h4 { font-size: 12px; }
+	h5 { font-size: 11px; }
+
 	.navbar {
 		line-height: 50px;
 		height: 50px;
@@ -1786,6 +1792,12 @@ Media queries
 }
 
 @media (max-width: 480px) {
+	h1 { font-size: 24px; line-height: 1.6em; }
+	h2 { font-size: 20px; line-height: 1.6em; }
+	h3 { font-size: 18px; }
+	h4 { font-size: 12px; }
+	h5 { font-size: 11px; }
+
 	.navbar {
 		line-height: 50px;
 		height: 50px;
@@ -1809,3 +1821,17 @@ Media queries
 	}
 
 }
+
+
+/************************************/
+
+#frema .rule-no {
+	font-weight:bold;
+	margin-right:20px;
+}
+
+
+
+
+
+
