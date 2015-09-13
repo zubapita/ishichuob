@@ -49,7 +49,6 @@
 	<script src="/Green/js/jquery.isotope.min.js"></script>
 	<script src="/Green/js/jquery.nicescroll.min.js"></script>
 	<script src="/Green/js/fancybox/jquery.fancybox.pack.js"></script>
-	<script src="/Green/js/jquery.parallax-1.1.3.js"></script>
 	<script src="/Green/js/skrollr.min.js"></script>
 	<script src="/Green/js/jquery.scrollTo-1.4.3.1-min.js"></script>
 	<script src="/Green/js/jquery.localscroll-1.2.7-min.js"></script>
@@ -90,11 +89,7 @@
 		</script>
 		 <script src="/Green/js/wow.min.js"></script>
 	 <script>
-	 wow = new WOW(
-	 {
-
-		}	)
-		.init();
+		wow = new WOW({}).init();
 	</script>
 	
 	{block name="footer"}{/block}
