@@ -5,16 +5,16 @@
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
 							<h2 class="section-heading animated">フリーマーケット参加要項と出展登録</h2>
+				            <p class="txt-bold align-left">大田区立石川台中学校内にて実施するフリマの参加要項です。出店申し込みのためには以下の出店規約に同意いただく必要があります。</p>
+				            <p class="txt-bold align-left"></p>
 						</div>
 					</div>
 				</div>
         <div class="row">
   			<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12" >
     			<div class="align-left">
-            <p class="txt-bold">2015年11月15日（日） 大田区立石川台中学校内にて実施するフリマの参加要項です</p>
-            <p class="txt-bold">出店申し込みのためには以下の出店規約に同意いただく必要があります。</p>
-            <div style="width:90%; magin:0 auto; border:solid 1px #222; background-color:#eee;padding:20px;">
-            <h3 class="align-center">【フリーマーケット出店規約】</h3>
+            <div style="width:100%; magin:0 auto; border:solid 1px #222; background-color:#eee;padding:20px;">
+				<h3 class="align-center">【フリーマーケット出店規約】</h3>
 				<p>以下の出店規約を遵守頂けないは、以後出店禁止とさせて頂きますのでご注意とご理解をお願い致します。</p>
 				<p>&nbsp;</p>
 				<p><span class="rule-no txt-bold">1.</span><span class="rule-sentence txt-bold">出店資格</span></p>
