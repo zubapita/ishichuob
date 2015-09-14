@@ -6,7 +6,7 @@
 					<div class="col-md-offset-3 col-md-6">
 						<div class="title">
 							<div class="wow bounceIn">
-							<h2 class="section-heading animated" data-animation="bounceInUp">秋の一日を石中で<br>楽しみませんか？</h2>
+							<h2 class="section-heading animated" data-animation="bounceInUp" style="font-size:2.5em;line-height:1.5em;">秋の一日を石中で<br>楽しみませんか？</h2>
 							</div>
 						</div>
 					</div>
@@ -17,20 +17,20 @@
 						<div class="col-lg-6 mar-bot30">
 							<div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
 								<div class="slides" data-group="slides">
-									<ul>
-
 										<div class="slide-body" data-group="slide">
-											<li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event01.png" width="100%" height="350"/></li>
-                      <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event02.png" width="100%" height="350"/></li>
-                      <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event03.png" width="100%" height="350"/></li>
-                      <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event04.png" width="100%" height="350"/></li>
-										</div>
+									<ul>
+										<li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event01.png" width="100%" height="350"/></li>
+					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event02.png" width="100%" height="350"/></li>
+					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event03.png" width="100%" height="350"/></li>
+					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event04.png" width="100%" height="350"/></li>
 									</ul>
+										</div>
 										<a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
 										<a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
 
 								</div>
 							</div>
+							<p><a href="#frema">フリーマーケット約50店募集（締め切り次第終了）</a></p>
 						</div>
 
 						<div class="col-lg-6 ">

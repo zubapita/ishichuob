@@ -13,7 +13,8 @@
         <div class="row">
   			<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12" >
     			<div class="align-left">
-            <div style="width:100%; magin:0 auto; border:solid 1px #222; background-color:#eee;padding:20px;">
+				<div class="align-right" style="width:100%;"><button id="disp-rule">出店規約をすべて表示</button><button id="hide-rule" style="display:none;">出店規約を畳む</button></div>
+            <div id="frema-rule-box" style="width:100%; height:150px; overflow: scroll;margin:5px auto; border:solid 1px #222; background-color:#eee;padding:0 20px 10px 20px;">
 				<h3 class="align-center">【フリーマーケット出店規約】</h3>
 				<p>以下の出店規約を遵守頂けないは、以後出店禁止とさせて頂きますのでご注意とご理解をお願い致します。</p>
 				<p>&nbsp;</p>
