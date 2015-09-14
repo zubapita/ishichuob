@@ -135,4 +135,26 @@
 	$(window).load(initNice);
 	$(window).resize(initNice);
 
+	// #frema
+	$('#disp-rule').click(function(){
+		dispRule();
+	});
+	$('#hide-rule').click(function(){
+		hideRule();
+	});
+
+
 })(jQuery);
+
+function dispRule() {
+	$('#frema-rule-box').height('100%');
+	$('#disp-rule').hide();
+	$('#hide-rule').show();
+}
+
+function hideRule() {
+	$('#frema-rule-box').height('150px');
+	$('#disp-rule').show();
+	$('#hide-rule').hide();
+}
+
