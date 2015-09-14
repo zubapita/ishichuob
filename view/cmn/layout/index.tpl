@@ -32,6 +32,7 @@
     </head>
 
 <body>
+<div id="wrapper" class="container">
 {include file='cmn/includes/header.inc'}
 
 {block name="body"}{/block}
@@ -91,5 +92,6 @@
 	</script>
 	
 	{block name="footer"}{/block}
+</div><!-- #wrapper -->
 </body>
 </html>
