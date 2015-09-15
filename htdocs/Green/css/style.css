@@ -12,8 +12,8 @@
   ========================================================================== */
 body {
 	font-family: "Titillium Web", Helvetica, Arial, sans-serif;
-	color:#777;
-	background: #f7f7f7;
+	color:#000;
+	background: #ffffff;
 	font-size: 16px;
 	line-height: 1.6em;
 	font-weight: 300;
@@ -738,7 +738,7 @@ height: auto;
 	vertical-align: middle;
 	color: #fff;
 	font-weight: 0;
-	font-size: 12px;
+	font-size: 16px;
 	letter-spacing: .1em;
 	text-transform: uppercase;
 
@@ -763,7 +763,7 @@ height: auto;
 }
 
 h1 a.navbar-brand {
-	font-size: 24px;
+	font-size: 20px;
 	color: #fff;
 	font-weight: 300;
 	text-shadow: none;
