@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
-							<h2 class="section-heading animated">フリーマーケット参加要項と出展登録</h2>
+							<h2 class="section-heading animated">フリーマーケット参加要項と出店登録</h2>
 				            <p class="txt-bold align-left">大田区立石川台中学校内にて実施するフリマの参加要項です。出店申し込みのためには以下の出店規約に同意いただく必要があります。</p>
 				            <p class="txt-bold align-left"></p>
 						</div>
