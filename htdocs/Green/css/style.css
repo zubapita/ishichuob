@@ -11,7 +11,8 @@
   General
   ========================================================================== */
 body {
-	font-family: "Titillium Web", Helvetica, Arial, sans-serif;
+	/* font-family: "Titillium Web", Helvetica, Arial, sans-serif; */
+	font-family:'Helvetica', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;
 	color:#000;
 	background: #ffffff;
 	font-size: 16px;
@@ -23,10 +24,11 @@ body {
 .clear {
 	clear: both;
 }
-
+/*
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	 font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
+*/
 h1, h2, h3, h4, h5, h6 {
 
 }
@@ -1828,10 +1830,27 @@ Media queries
 		left: 0px;
 	}
 
+	#about-event h2
+
 }
 
 
 /************************************/
+
+#about-event h2 {
+	font-size:2.5em;
+	line-height:1.5em;
+	background:url(/ishichu/img/parts/red_line.png) no-repeat 50% bottom;
+	padding:0 0 55px 20px
+}
+@media (max-width: 480px) {
+	#about-event h2 {
+		font-size:1.6em;
+		line-height:1.5em;
+		background:url(/ishichu/img/parts/red_line.png) no-repeat 50% bottom;
+		padding:0 0 55px 20px
+	}
+}
 
 #frema .rule-no {
 	font-weight:bold;
@@ -1844,4 +1863,5 @@ Media queries
 }
 
 
-
+.red {color:#f00;}
+.gray {color:#888;}
