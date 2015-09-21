@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
-							<h2 class="section-heading animated">フリーマーケット参加要項と出店登録</h2>
+							<h2 class="section-heading">フリーマーケット参加要項と出店登録</h2>
 				            <p class="txt-bold align-left">大田区立石川台中学校内にて実施するフリマの参加要項です。出店申し込みのためには以下の出店規約に同意いただく必要があります。</p>
 				            <p class="txt-bold align-left"></p>
 						</div>
@@ -82,6 +82,7 @@
             <p>〇受付完了No.＝出店ブースNo.となります。</p>
             <p>〇登録完了後のキャンセルはできません。無断キャンセルをされた場合は、次回以降の出店をお断りさせていただきます。</p>
             <p>〇今回お送りいただいた情報は、このイベントのみ使用いたします。</p>
+			<p>車両搬入と駐車の方法はこちら⇒<a href="/fremaGuide/" style="text-decoration:underline;">フリーマーケット参加ガイド</a><p>
     			</div>
           <iframe src="https://docs.google.com/forms/d/1OgV6yTdFsu2XZP5v_I1X68aHSJFXzI2vlURJ_j5agmk/viewform?embedded=true" width="100%" height="2200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
   			</div>

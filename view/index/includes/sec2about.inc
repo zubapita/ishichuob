@@ -6,7 +6,7 @@
 					<div class="">
 						<div class="title">
 							<div class="wow bounceIn">
-							<h2 class="section-heading animated" data-animation="bounceInUp" >秋の一日を石中で楽しみませんか？</h2>
+							<h2 class="section-heading">秋の一日を石中で楽しみませんか？</h2>
 							</div>
 						</div>
 					</div>
