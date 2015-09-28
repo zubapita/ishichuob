@@ -11,13 +11,10 @@
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
-						<li class="active"><a href="#index">Home</a></li>
-						<li><a href="#about-event">イベント概要</a></li>
-						<li><a href="#frema">フリマ参加</a></li>
-						{*<li><a href="#team">Team</a></li>
-						<li><a href="#line-pricing">Pricing</a></li>
-						<li><a href="#section-works">Portfolio</a></li>
-						<li><a href="#section-contact">Contact</a></li>*}
+						<li class="active"><a href="/#index">Home</a></li>
+						<li><a href="/#about-event">イベント概要</a></li>
+						<li><a href="/#frema">フリマ参加</a></li>
+						<li><a href="/about/inquiry">お問い合わせ</a></li>
 					</ul>
 				</div><!--/.navbar-collapse -->
 			</div>
