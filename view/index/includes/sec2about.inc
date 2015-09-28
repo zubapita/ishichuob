@@ -23,6 +23,8 @@
 					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event02.png" width="100%" height="350"/></li>
 					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event03.png" width="100%" height="350"/></li>
 					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event04.png" width="100%" height="350"/></li>
+					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event05.png" width="100%" height="350"/></li>
+					                    <li><img alt="" class="img-responsive" src="/ishichu/img/2nd/event06.png" width="100%" height="350"/></li>
 									</ul>
 										</div>
 										<a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
