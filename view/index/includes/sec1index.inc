@@ -20,6 +20,18 @@
 						<div class="slide-body" data-group="slide">
 							<img src="/ishichu/img/1st/kousha02.jpg" alt="" class="big-screen">
 							<img src="/ishichu/img/1st/s/kousha02.jpg" alt="" class="small-screen">
+							<div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="1200">
+								<h2>あの頃、わたしたちは石中生だった。</h2>
+								<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="1700" data-length="1200"><p>いつも賑やかで楽しかった日々。</p></div>
+								<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="2900" data-length="1200"><p>みんな、どうしているんだろう？</p></div>
+				  				<div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="5200" data-length="1200"><h3><span>そうだ 石中へ行こう！</span></h3></div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="slide-body" data-group="slide">
+							<img src="/ishichu/img/1st/kousha03.jpg" alt="" class="big-screen">
+							<img src="/ishichu/img/1st/s/kousha03.jpg" alt="" class="small-screen">
 							<div class="caption header" data-animate="slideAppearDownToUp" data-delay="500" data-length="1200">
 								<h2>あの頃、ぼくらは石中生だった。</h2>
 								<div class="caption-sub" data-animate="slideAppearUpToDown" data-delay="1700" data-length="1200"><p><span>バカなこともイッパイやった。 </span></p></div>
@@ -28,44 +40,31 @@
 							</div>
 						</div>
 					</li>
-  	    		<li>
-              <div class="slide-body" data-group="slide">
-								<img src="/ishichu/img/1st/kousha03.jpg" alt="" class="big-screen">
-                <img src="/ishichu/img/1st/s/kousha03.jpg" alt="" class="small-screen">
-                <div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="1200">
-                  <h2>あの頃、ぼくらは石中生だった。</h2>
-                  <div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="1700" data-length="1200"><p>いつも賑やかで楽しかった日々。</p></div>
-									<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="2900" data-length="1200"><p>みんな、どうしているんだろう？</p></div>
+					<li>
+						<div class="slide-body" data-group="slide">
+							<img src="/ishichu/img/1st/kousha04.jpg" alt="" class="big-screen">
+							<img src="/ishichu/img/1st/s/kousha04.jpg" alt="" class="small-screen">
+							<div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="1200">
+								<h2>あの頃、わたしたちは石中生だった。</h2>
+								<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="1700" data-length="1200"><p>卒業するまでずっと言えなかった思い。</p></div>
+								<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="2900" data-length="1200"><p>いまなら、言えるかな？</p></div>
 				  				<div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="5200" data-length="1200"><h3><span>そうだ 石中へ行こう！</span></h3></div>
-								</div>
-                </div>
-  	    		</li>
-						<li>
-              <div class="slide-body" data-group="slide">
-								<img src="/ishichu/img/1st/kousha04.jpg" alt="" class="big-screen">
-                <img src="/ishichu/img/1st/s/kousha04.jpg" alt="" class="small-screen">
-                <div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="1200">
-                  <h2>あの頃、ぼくらは石中生だった。</h2>
-                  <div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="1700" data-length="1200"><p>卒業するまでずっと言えなかった思い。</p></div>
-									<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="2900" data-length="1200"><p>いまなら、言えるだろうか？</p></div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="slide-body" data-group="slide">
+							<img src="/ishichu/img/1st/kousha05.jpg" alt="" class="big-screen">
+							<img src="/ishichu/img/1st/s/kousha05.jpg" alt="" class="small-screen">
+							<div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="1200">
+								<h2>あの頃、石中生だった。</h2>
+								<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="1700" data-length="1200"><p>懐かしい先生、楽しかった部活。</p></div>
+								<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="2900" data-length="1200"><p>あれがスタート地点だったのかも。</p></div>
 				  				<div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="5200" data-length="1200"><h3><span>そうだ 石中へ行こう！</span></h3></div>
-								</div>
-                </div>
-  	    		</li>
-						<li>
-              <div class="slide-body" data-group="slide">
-								<img src="/ishichu/img/1st/kousha05.jpg" alt="" class="big-screen">
-                <img src="/ishichu/img/1st/s/kousha05.jpg" alt="" class="small-screen">
-                <div class="caption header" data-animate="slideAppearUpToDown" data-delay="500" data-length="1200">
-                  <h2>あの頃、ぼくらは石中生だった。</h2>
-                  <div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="1700" data-length="1200"><p>懐かしい先生、楽しかった部活。</p></div>
-									<div class="caption-sub" data-animate="slideAppearLeftToRight" data-delay="2900" data-length="1200"><p>あれがスタート地点だったのかも。</p></div>
-				  				<div class="caption-sub" data-animate="slideAppearDownToUp" data-delay="5200" data-length="1200"><h3><span>そうだ 石中へ行こう！</span></h3></div>
-								</div>
-                </div>
-  	    		</li>
-
-  	    	</ul>
+							</div>
+						</div>
+					</li>
+				</ul>
 		</div>
 
         <a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
