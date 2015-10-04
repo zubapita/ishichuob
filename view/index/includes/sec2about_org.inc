@@ -42,9 +42,8 @@
 
 						<div class="col-lg-6 ">
 							<div class="company mar-left10">
-								<h3 style="line-height:1.5em; font-weight:bold;">2015<span class="gray">年</span>11<span class="gray">月</span>15<span class="gray">日</span>（<span class="red">日</span>） 石中に集まれ！！！</h3>
-								<p>２０１５年６月、石川台中学校同窓会は体制を一新しました。そのご挨拶も兼ね、イベント「そうだ 石中に行こう！」を2015年11月15日（日）に開催します。おいしいものを食べながら、フリーマーケットやさまざまなイベントを通して、晩秋の一日を一緒に楽しみ、交流の輪を広げましょう。
-昔の石中生、今の石中生、未来の石中生、お近くのみなさん、みんな集まれ！</p>
+								<h3 style="line-height:1.5em; font-weight:bold;">2015<span class="gray">年</span>11<span class="gray">月</span>15<span class="gray">日</span>（<span class="red">日</span>） 石中の卒業生が世代を超えて協力し、イベントを行います。</h3>
+								<p>いままで表向きの活動がなかった石中の同窓会でしたが、2015年度の同窓会は体制を一新し、地域に根ざした活動を通して、現役生にも卒業生にも地域にも貢献していくことを目指します。</p>
                 <p>その第一弾となるイベント「そうだ 石中に行こう！」を2015年11月15日（日）に開催します。おいしいものを食べながら、フリーマーケットやさまざまなイベントを通して、秋の一日を石中で一緒に楽しみ、交流の輪を広げましょう。</p>
 							</div>
 							<div class="list-style">
@@ -60,18 +59,8 @@
 											<li>作って遊べる、折り紙クラフト</li>
 										</ul>
 									</div>
-								</div>
-								<div class="row">
 									<p>より詳しいイベント全体図、ガイドはこちら⇒<a href="/eventGuide/" style="font-weight:bold;text-decoration:underline;">イベントガイド</a></p>
 								</div>
-								<div class="row">
-								<div class="col-lg-12 col-sm-12 col-xs-12 well" style="margin-top:20px;padding:15px;border:solid 2px #ffd700;">
-									<h3 class="align-center" style="padding:5px;">「同窓会の部屋」に集まれ！</h3>
-									<p>昔の石中の懐かしい写真を楽しみながら、部屋のあちこちで、小さなクラス会、同期会、部活同窓会を楽しんでください。受付で簡単な来場者名簿を作りますから、何期の誰が来ているか、一目瞭然。あこがれのあの人はいるかな？</p>
-									<p class="align-right">場所：視聴覚室</p>
-								</div>
-								</div>
-								
 							</div>
 						</div>
 
