@@ -73,5 +73,9 @@
 
     	</div>
       <!-- Responsive slider - END -->
+      
+      <div style="padding:15px 0 5px;">
+          <p><a href="/fremaGuide/#boothNo" style="font-size:1.6em;color:#fff;">フリマ、ブース番号発表！</a></p>
+      </div>
 	</div>
 </section>
